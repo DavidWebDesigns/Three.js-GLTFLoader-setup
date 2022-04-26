@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    overflow: hidden;
+}
+.scene, canvas {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-image: radial-gradient(circle, #756bd1, #007cd0, #0081b3, #008088, #007a5e, #2c6b3b, #3e5b1c, #4a4a00, #4a3207, #3b1f10, #241210, #000000);
+}
